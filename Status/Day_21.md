@@ -97,6 +97,13 @@ set1 &= set2
 li=list(set1)
 print li
 ```
+#puthon 
+solution tushar sharma
+lists1= [1,3,6,78,35,55]
+lists2= [12,24,35,24,88,120,155]
+set1 = set(lists1)
+set2 = set(lists2)
+print(set1 & set2)
 
 ---
 
